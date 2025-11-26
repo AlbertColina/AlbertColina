@@ -98,7 +98,7 @@
 ---
 
 ## Proyectos Populares
-<a href="https://github.com/TU_USUARIO">
+<a href="https://github.com/AlbertColina">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlbertColina&repo=Pytuino&theme=onedark" />
 </a>
 
