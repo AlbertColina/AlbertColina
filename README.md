@@ -26,13 +26,13 @@
 - 👋 Hola, soy **Albert**, desarrollador y estudiante de Ingeniería en Sistemas.  
 - 🧠 Me especializo en **Python, Arduino, automatización, control de hardware y desarrollo web**.  
 - 💼 He creado sistemas de:  
-  - domótica  
-  - control industrial (Arduino + Python)  
-  - facturación  
-  - tiendas online y carritos de compra  
-  - gestión de notas y asistencia  
-- 👯 Busco colaborar en **proyectos web (PHP/React/Python), IoT, y automatización**.  
-- 💬 Pregúntame sobre Python, Flask, Arduino, ESP-01, bases de datos y sistemas web.
+  - Domótica  
+  - Control industrial (Arduino + Python)  
+  - Facturación  
+  - Tiendas online y Carritos de compra  
+  - Gestión de notas y Asistencia  
+- 👯 Busco colaborar en **proyectos web (PHP/Python), IoT, y Automatización**.  
+- 💬 Pregúntame sobre Python, Flask, Arduino, bases de datos y sistemas web.
 
 ---
 
@@ -55,11 +55,6 @@
 <a href="https://flask.palletsprojects.com/" target="_blank">
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 </a>
-
-<a href="https://react.dev/" target="_blank">
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-</a>
-
 <!-- Hardware -->
 <a href="https://www.arduino.cc/" target="_blank">
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
@@ -69,7 +64,6 @@
   <img alt="ESP-01" src="https://img.shields.io/badge/ESP--01-000000?style=for-the-badge&logo=espressif&logoColor=red">
 </a>
 
-<!-- BD -->
 <a href="https://www.mysql.com/" target="_blank">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </a>
@@ -83,35 +77,29 @@
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </a>
 
-<a href="https://www.docker.com/" target="_blank">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
-</a>
-
----
-
 <h2> Github Stats <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35px"> </h2>
 
 <details> 
   <summary><b>💻 Mis estadísticas</b></summary>
   <br/>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&count_private=true&theme=algolia" height="192px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=AlbertColina&show_icons=true&count_private=true&theme=algolia" height="192px"/>
     <br/><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TU_USUARIO&show_icons=true&layout=compact&theme=algolia" height="192px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlbertColina&show_icons=true&layout=compact&theme=algolia" height="192px"/>
   </p>
 </details>
 
 <details>
   <summary><b>⚡ Actividad reciente</b></summary>
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlbertColina&theme=react-dark" />
 </details>
 
 ---
 
 ## Proyectos Populares
 <a href="https://github.com/TU_USUARIO">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=TU_REPO&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlbertColina&repo=Pytuino&theme=onedark" />
 </a>
 
 Credit: **Albert**  
